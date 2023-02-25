@@ -2,6 +2,12 @@
 
 <h2>About me:</h2>
 
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&color=informational&link=https://allmylinks.com/robizona)](https://allmylinks.com/robizona)
+[![discord](https://img.shields.io/badge/Join_Discord-5865F2.svg?&style=flat-square&logo=discord&logoColor=white&link=https://discord.gg/QuX5GYTarA)](https://discord.gg/QuX5GYTarA)
+[![GitHub followers](https://img.shields.io/github/followers/robizona?label=Follow&style=social)](https://github.com/robizona)
+![](https://komarev.com/ghpvc/?username=robizona&label=GitHub_Views&color=red)
+
+
 <b>I'm working on RedM & FiveM Server</b></br>
 <b>Here i release script for free for the community</b></br>
 <i>The languages used are:</i><b> LUA, JS, CSS, HTML</b></br>
