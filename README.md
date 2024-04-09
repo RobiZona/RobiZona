@@ -18,7 +18,7 @@
 - [vorp-banking](https://github.com/RobiZona/vorp_banking)
 
 <b>My RedM's Server is [Western Legends](https://discord.gg/westernlegends)</b></br>
-<b>My FiveM's Server is in development...</b>
+<b>My FiveM's Server is [Legends](https://discord.gg/legendsrp)</b>
 
 <h2>Connect with me:</h2>
 
