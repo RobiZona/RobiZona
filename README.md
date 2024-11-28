@@ -16,7 +16,6 @@ I've collaborated with [vorp framework](https://github.com/VORPCORE), contributi
 
 🎮 **My Servers:**
 - RedM: [Western Legends](https://discord.gg/westernlegends)
-- FiveM: [Legends](https://discord.gg/legendsrp)
 
 ## Connect with Me
 
